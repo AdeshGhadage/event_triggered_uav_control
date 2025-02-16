@@ -1,0 +1,8 @@
+UAV control formation
+
+https://github.com/AlessioLuciani/distributed-uav-rl-protocol
+
+https://spinningup.openai.com/en/latest/algorithms/sac.html#documentation
+
+neural network
+
